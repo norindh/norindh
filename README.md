@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-*i will be programmer in my life*
+
 
 <!--
 **norindh/norindh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
